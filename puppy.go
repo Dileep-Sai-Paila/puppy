@@ -2,6 +2,6 @@ package puppy
 
 import "fmt"
 
-func barks() {
+func Barks() {
 	fmt.Println("Bow bow bow~!!!!")
 }
